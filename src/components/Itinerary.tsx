@@ -38,7 +38,7 @@ const chapters = [
 
 const Itinerary = () => {
   return (
-    <section className="py-16 md:py-24 px-6 bg-secondary/30 paper-texture">
+    <section id="itinerary" className="py-16 md:py-24 px-6 bg-secondary/30 paper-texture">
       <div className="max-w-4xl mx-auto">
         {/* Section header */}
         <div className="text-center mb-16">
