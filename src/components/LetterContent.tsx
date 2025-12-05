@@ -84,7 +84,7 @@ const LetterContent = ({ isVisible }: LetterContentProps) => {
               className="w-full h-48 md:h-64 object-cover"
             />
             <p className="text-center py-3 font-handwritten text-muted-foreground text-lg bg-secondary/50">
-              The Tigoni Teapods, waiting for us ✧
+              The Tigoni Teapods, waiting for you ✧
             </p>
           </div>
 
